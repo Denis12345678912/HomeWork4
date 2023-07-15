@@ -5,10 +5,13 @@
 
 int GetSumFigures(int number)
 {
-   
+   int sum = 0;
+   int divider = 0;
     while(number > 0)
     {
-        
+        divider = number % 10;
+        sum+=divider;
+        number /=10;
      
     }
     return sum;
