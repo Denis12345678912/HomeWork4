@@ -1,0 +1,15 @@
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\bin\Debug\net7.0\task29.2.exe
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\bin\Debug\net7.0\task29.2.deps.json
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\bin\Debug\net7.0\task29.2.runtimeconfig.json
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\bin\Debug\net7.0\task29.2.dll
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\bin\Debug\net7.0\task29.2.pdb
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\obj\Debug\net7.0\task29.2.csproj.AssemblyReference.cache
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\obj\Debug\net7.0\task29.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\obj\Debug\net7.0\task29.2.AssemblyInfoInputs.cache
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\obj\Debug\net7.0\task29.2.AssemblyInfo.cs
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\obj\Debug\net7.0\task29.2.csproj.CoreCompileInputs.cache
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\obj\Debug\net7.0\task29.2.dll
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\obj\Debug\net7.0\refint\task29.2.dll
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\obj\Debug\net7.0\task29.2.pdb
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\obj\Debug\net7.0\task29.2.genruntimeconfig.cache
+C:\Users\mksn0\Desktop\Домашние задание C# 4 Урок\task29.2\obj\Debug\net7.0\ref\task29.2.dll

@@ -4,9 +4,7 @@
 //1)Генерация массива из 8 элементов 
 //2) либо пользователь сам задаёт случайный размер массива, и дальше генерация
 
-
-
-//Первый вариант
+//Второй вариант
 void ShowArray(int [] array)
 {
     Console.Write("[ ");
@@ -19,10 +17,12 @@ void ShowArray(int [] array)
 int [] GetArray()
 {
     Random rand = new Random();
-    int [] array1 = new int [8];
+    Console.WriteLine("Введите размер массива: ");
+    int size = Convert.ToInt32(Console.ReadLine());
+    int [] array1 = new int [size];
     for(int i =0; i < array1.Length; i++)
     {
-        array1[i] = rand.Next(0,100);
+         array1[i] = rand.Next(0,100);
     }
     return array1;
 }
